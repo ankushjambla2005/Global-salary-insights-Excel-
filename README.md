@@ -2,7 +2,7 @@
 
 An interactive, dark-themed **Microsoft Excel Dashboard** built to analyze global tech job market trends, salary distributions, schedule preferences, and high-demand skill sets across **29,000+ job postings**.
 
-![Dashboard Preview](preview/Dashboard preview.png)
+![Dashboard Preview](preview/Dashboard_preview.png)
 
 ---
 
